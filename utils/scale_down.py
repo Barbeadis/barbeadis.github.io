@@ -6,6 +6,8 @@ from PIL import Image
 DESTS = {
     2: {"img": (400, 400)},
     3: {"img": (500, 500)},
+    16: {"img": (200, 200)},
+    19: {"img": (500, 500)},
 }
 
 DEST_DEFAULTS = {
