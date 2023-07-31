@@ -31,7 +31,7 @@ function enable_editing() {
 }
 
 function init() {
-    /* $("#showPositions").click(enable_editing); */
+    $("#showPositions").click(enable_editing);
 }
 
 $(init);
