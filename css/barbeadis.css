@@ -47,13 +47,12 @@ H2 A {
 }
 
 #images P {
-/*
-    color: #E010B8;
-*/
-    font-size: 140%;
+    color: #8f0c2e;
+    font-size: 200%;
     font-style: italic;
     position: absolute;
     text-align: left;
+    white-space: nowrap;
 }
 
 #images H2 {
